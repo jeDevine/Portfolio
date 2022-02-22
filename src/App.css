@@ -3,7 +3,7 @@
 .App {
     color: white;
     font-family: 'Patrick Hand', cursive;
-    height: 99vh;
-    width: 99vw;
+    height: 100%;
+    width: 100%;
     background-image: url("../public/portfolio_background.jpg")
 }
