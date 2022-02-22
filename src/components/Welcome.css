@@ -216,4 +216,9 @@ a:hover {
         60% {transform: translateX(0em)}
         100% {transform: translateX(12em)}
     }
+
+    @keyframes sixth {
+        0% {transform: scale(1)}
+        100% {transform: scale(2) translateX(-3em)}
+    }
 }
